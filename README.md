@@ -1,4 +1,4 @@
-# Generative AI Assistant & Prompt Engineering Project
+# Generative AI Assistant
 
 ## Project Description
 This project explores practical applications of generative artificial intelligence, focusing on prompt engineering and API-based interaction with large language models. The work demonstrates how structured user prompts influence the quality of AI-generated responses in both text generation and image concept design tasks.
